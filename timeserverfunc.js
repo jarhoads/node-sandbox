@@ -4,7 +4,7 @@ var port = process.argv[2];
 
 // a more functional version of the datetime server
 // I don't know if this is better, it's just something
-// I wanted to try out
+// I thought of and wanted to try out
 
 // a simple date and time server that 
 // takes the port as the first argument
